@@ -57,6 +57,7 @@ namespace CalculatorTabajaras
 						break;
 					default:
 						break;
+					//Teste para ver se houve alteração
 				}
 
 			}

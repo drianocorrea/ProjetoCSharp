@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NewOne\\OneDrive - Fatec Centro Paula Souza\\Fatec\\POO-2021\\IntroduçãoC#\\CalculatorTabajaras\\CalculatorTabajaras.csproj",
+      "projectUniqueName": "C:\\Users\\NewOne\\OneDrive - Fatec Centro Paula Souza\\Fatec\\POO-2021\\IntroduçãoC#\\drianocorrea\\ProjetoCSharp\\CalculatorTabajaras\\CalculatorTabajaras.csproj",
       "projectName": "CalculatorTabajaras",
-      "projectPath": "C:\\Users\\NewOne\\OneDrive - Fatec Centro Paula Souza\\Fatec\\POO-2021\\IntroduçãoC#\\CalculatorTabajaras\\CalculatorTabajaras.csproj",
+      "projectPath": "C:\\Users\\NewOne\\OneDrive - Fatec Centro Paula Souza\\Fatec\\POO-2021\\IntroduçãoC#\\drianocorrea\\ProjetoCSharp\\CalculatorTabajaras\\CalculatorTabajaras.csproj",
       "packagesPath": "C:\\Users\\NewOne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NewOne\\OneDrive - Fatec Centro Paula Souza\\Fatec\\POO-2021\\IntroduçãoC#\\CalculatorTabajaras\\obj\\",
+      "outputPath": "C:\\Users\\NewOne\\OneDrive - Fatec Centro Paula Souza\\Fatec\\POO-2021\\IntroduçãoC#\\drianocorrea\\ProjetoCSharp\\CalculatorTabajaras\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NewOne\\AppData\\Roaming\\NuGet\\NuGet.Config",
