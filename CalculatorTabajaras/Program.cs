@@ -58,6 +58,7 @@ namespace CalculatorTabajaras
 					default:
 						break;
 					//Teste para ver se houve alteração
+					//Testando outra alteração no programa
 				}
 
 			}
