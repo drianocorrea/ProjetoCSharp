@@ -1,0 +1,13 @@
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\bin\Debug\netcoreapp3.1\CalculatorTabajaras.exe
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\bin\Debug\netcoreapp3.1\CalculatorTabajaras.deps.json
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\bin\Debug\netcoreapp3.1\CalculatorTabajaras.runtimeconfig.json
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\bin\Debug\netcoreapp3.1\CalculatorTabajaras.runtimeconfig.dev.json
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\bin\Debug\netcoreapp3.1\CalculatorTabajaras.dll
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\bin\Debug\netcoreapp3.1\CalculatorTabajaras.pdb
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.csprojAssemblyReference.cache
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.AssemblyInfoInputs.cache
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.AssemblyInfo.cs
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.csproj.CoreCompileInputs.cache
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.dll
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.pdb
+C:\Users\NewOne\OneDrive - Fatec Centro Paula Souza\Fatec\POO-2021\IntroduçãoC#\CalculatorTabajaras\obj\Debug\netcoreapp3.1\CalculatorTabajaras.genruntimeconfig.cache
