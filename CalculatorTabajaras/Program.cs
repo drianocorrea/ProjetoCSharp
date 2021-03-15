@@ -39,7 +39,8 @@ namespace CalculatorTabajaras
 				switch (opcao)
 				{
 					case 1: // 1 - suma
-						r = a + b;
+						
+						r = class.Soma(r);
 						Console.Write($"Resultado = {r}");
 						break;
 					case 2: // 1 - Subraiur
