@@ -1,9 +1,11 @@
 ﻿using System;
-
+/*
 public class Soma
 {
-	public Soma(int a, int b)
+	public int result = 3;
+	
 	{
-		return a + b;
+		//return  a + b;
 	}
 }
+*/

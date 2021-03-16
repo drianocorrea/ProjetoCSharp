@@ -18,30 +18,32 @@ namespace CalculatorTabajaras
 {
 		class Varian
 		{
-			static double a, b, r, opcao;
+			static int a, b, r, opcao;
 
 			static void Main(string[] args)
 			{
 
 				Console.Write("Entre com um numero =  ");
-				a = Convert.ToDouble(Console.ReadLine());
+				a = Convert.ToInt32(Console.ReadLine());
 				Console.WriteLine();
 				Console.Write("Entre com outro numero =  ");
-				b = Convert.ToDouble(Console.ReadLine());
+				b = Convert.ToInt32(Console.ReadLine());
 				Console.Write("Escolha a operação matemática \n");
 				Console.Write("1 - Soma \n");
 				Console.Write("2 - Subtrair \n");
 				Console.Write("3 - Dividir \n");
 				Console.Write("4 - Multiplicar \n");
 				Console.Write("--->>>  ");
-				opcao = Convert.ToDouble(Console.ReadLine());
+				opcao = Convert.ToInt32(Console.ReadLine());
 
 				switch (opcao)
 				{
 					case 1: // 1 - suma
-						
-						r = class.Soma(r);
+						r = a + b;
 						Console.Write($"Resultado = {r}");
+						//Console.Write(Second(r));
+						//Soma r = new Soma();
+						//Console.Write($"Resultado = {0}", r.result);
 						break;
 					case 2: // 1 - Subraiur
 						r = a - b;
