@@ -27,10 +27,10 @@ namespace SalarioFuncionario
 					funcionario.Matricula = Convert.ToInt32(Console.ReadLine());
 					Console.WriteLine("Digitar quantidade de horas trabalhadas: ");
 					funcionario.HorasTrabalhadas = Convert.ToInt32(Console.ReadLine());
-					Console.WriteLine("Digitar valor do sálario por hora: ");
+					Console.WriteLine("Digitar valor do sálario por hora(utilize vírgula para separar as casas decimais): ");
 					funcionario.ValorSalario = Convert.ToDouble(Console.ReadLine());
 
-					funcionario.calculaSalarioFinal();
+					funcionario.CalculaSalarioFinal();
 
 					Console.WriteLine($"\nO funcionário da matrícula {funcionario.Matricula} recebeu um total " +
 									  $"de R$ {funcionario.SalarioFinal} por {funcionario.HorasTrabalhadas}H\n");

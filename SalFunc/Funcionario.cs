@@ -14,7 +14,7 @@ namespace SalarioFuncionario
 		public double ValorSalario { get => valorSalario; set => valorSalario = value; }
 		public double SalarioFinal { get => salarioFinal; set => salarioFinal = value; }
 
-		public void calculaSalarioFinal() 
+		public void CalculaSalarioFinal() 
 		{
 			SalarioFinal = ValorSalario * HorasTrabalhadas;
 		}
