@@ -40,8 +40,8 @@ namespace SalarioFuncionario
 					Console.WriteLine("\nAlgum dado não foi digitado corretamente \n");
 				}
 
-				Console.WriteLine("Deseja consultar de outro funcionário (Y - sim, N - não): ");
-				continua = Console.ReadLine().Equals("Y", StringComparison.OrdinalIgnoreCase) ? false : true;
+				Console.WriteLine("Deseja consultar de outro funcionário (S - sim, N - não): ");
+				continua = Console.ReadLine().Equals("S", StringComparison.OrdinalIgnoreCase) ? false : true;
 			}
 		}
 	}
